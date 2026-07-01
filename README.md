@@ -72,9 +72,12 @@ Practicing Data Structures & Algorithms and improving aptitude, logical reasonin
 ---
 
 ## 📊 Connect with me
-📧 nandhinisivakumar0526@gmail.com
+
+📧Email: nandhinisivakumar0526@gmail.com
 🔗 LinkedIn: linkedin.com/in/nandhini-gs
 💻 GitHub: github.com/nandhini-1330
+
+
 
 ---
 
