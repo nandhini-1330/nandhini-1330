@@ -2,10 +2,6 @@
 
 Motivated Information Technology undergraduate with knowledge in Java, Spring Boot, MySQL, HTML, and CSS. Passionate about problem-solving and backend development, with experience building web applications and AI-based projects. Solved 200+ DSA problems on LeetCode and continuously improving technical, aptitude, and analytical skills.
 
-📧 nandhinisivakumar0526@gmail.com
-🔗 LinkedIn: linkedin.com/in/nandhini-gs
-💻 GitHub: github.com/nandhini-1330
-
 ---
 
 ## 🎓 Education
@@ -21,7 +17,7 @@ CGPA: 8.5
 - **Languages:** Java, HTML, CSS, MySQL
 - **Frameworks & Technologies:** Spring Boot
 - **Tools & Platforms:** GitHub, VS Code
-- **Core Concepts:** OOP, DBMS, DSA
+- **Core Concepts:** OOP, DBMS
 
 ---
 
@@ -56,12 +52,13 @@ Food ordering and recipe discovery web application.
 ## 🏆 Achievements
 
 - Secured 3rd Prize in Inno Blitz Hackathon conducted by Sri Ramakrishna Engineering College
-- Solved 200+ DSA problems on LeetCode focusing on problem-solving and code optimization
+- Solved 200+ problems on LeetCode focusing on problem-solving and code optimization
 
 ---
 
 ## 📜 Certifications
 
+- NPTEL Programming in java – Elite Certificate
 - NPTEL Software Testing – Elite Certificate
 - Java Training and Certification – SDLC Training Center
 - TNWISE 2026 – Tamil Nadu Hackathon for Women in Science and Engineering
@@ -71,6 +68,13 @@ Food ordering and recipe discovery web application.
 ## 📊 Currently Learning
 
 Practicing Data Structures & Algorithms and improving aptitude, logical reasoning skills for placement preparation.
+
+---
+
+## 📊 Connect with me
+📧 nandhinisivakumar0526@gmail.com
+🔗 LinkedIn: linkedin.com/in/nandhini-gs
+💻 GitHub: github.com/nandhini-1330
 
 ---
 
