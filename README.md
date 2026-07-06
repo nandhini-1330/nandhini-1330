@@ -1,6 +1,6 @@
 # Hi, I'm Nandhini G S 👋
 
-Motivated Information Technology undergraduate with knowledge in Java, Spring Boot, MySQL, HTML, and CSS. Passionate about problem-solving and backend development, with experience building web applications and AI-based projects. Solved 200+ DSA problems on LeetCode and continuously improving technical, aptitude, and analytical skills.
+Motivated Information Technology undergraduate with knowledge in Java, Spring Boot, MySQL, HTML, and CSS. Passionate about problem-solving and backend development, with experience building web applications and AI-based projects. Solved 200+ problems on LeetCode and continuously improving technical, aptitude, and analytical skills.
 
 ---
 
